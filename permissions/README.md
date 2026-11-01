@@ -1,2 +1,17 @@
-Added in for shell permission
-Adding in a new line 
+- Task 0 - Su switched the current user to Betty
+- Task 1 - whoami prints the current user 
+- Task 2 - groups prints all of the current user's groups
+- Task 3 - chown changes the user betty to become the owner of hello
+- Task 4 - touch creates an empty file
+- Task 5 - chmod u+x executes a file script 
+- Task 6 - chmod ug+x,o+r gives the owner and group execute permission, and the other user read permission
+- Task 7 - gives everyone execute permission
+- Task 8 - gives the user all permissions 
+- Task 9 - sets the file to give the owner all permissions, group only read and execute, and other only write and execute
+- Task 10 - --reference copy over premissions 
+- Task 11 - gives all permissions to subdirectories 
+- Task 12 - creates a directory with permission setting
+- Task 13 - chgrp changes group owner 
+- Task 14 - changes owner to vincent and group owner to staff in all files
+- Task 15 - changes group owner and includes a symbolic link, -h is needed to change ownership of a symbolic link
+- Task 16 - changes ownership only if it --from={Username}
