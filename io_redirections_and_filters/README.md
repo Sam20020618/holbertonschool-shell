@@ -1,1 +1,23 @@
-Writing logs for tasks 
+- Task 0 - echo prints whatever is said 
+- Task 1 - "\" allows special characters to be used (echo doesn't work with special characters)
+- Task 2 - cat displays the content of the whole file 
+- Task 3 - Same as task 2 but with two files
+- Task 4 - tail shows the last 10 lines
+- Task 5 - head shows the first 10 lines
+- Task 6 - shows only the third line (hence why you need both head and tail)
+- Task 7 - N/A
+- Task 8 - list the file in long format, > allows the file to be overwritten or created
+- Task 9 - >> allows the file to be duplicated 
+- Task 10 - finds all files ending in .js and deletes them
+- Task 11 - find all directories and subdirectories with wc -l, keeping count
+- Task 12 - displays the first 10 lines of the newest file ls -lt finds the newest
+- Task 13 - prints files that only appear once, uniq finds the ones to print
+- Task 14 - finds the word "root" within a file
+- Task 15 - counts how many times "bin" appears, -c counts
+- Task 16 - finds root and shows the next three lines after that, -A prints the number of lines after finding something
+- Task 17 - displays all lines that don't contain "bin", -v excludes all matches to "bin"
+- Task 18 - Prints all files starting with letters, -i allows for both lower and upper case
+- Task 19 - replaces all A and C to z and e, tr means translate
+- Task 20 - -d means delete all found within the tr command 
+- Task 21 - rev means reverse an input
+- Task 22 - sorts users and displays their home directories, cut allows you to take only what you need, always include -d
