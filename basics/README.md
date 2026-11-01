@@ -1,18 +1,18 @@
-Task 0 - pwd allows me to print the current working directory
-Task 1 - ls allows me to see a list of the files 
-Task 2 - cd allows me to change directory 
-Task 3 - ls -l allows me to see the list of files one at a time
-Task 4 - ls -la allows me to see the list of files, including hidden files 
-Task 5 - ls -an allows me to see the list of files in numerical order, including hidden files 
-Task 6 - mkdir /tmp/my_first_directory allows me to create a directory within the /tmp folder
-Task 7 - mv /tmp/betty /tmp/my_first_directory allowed me to move a file into a new place 
-Task 8 - rm allows me to delete a file 
-Task 9 - rm -r allowed me to delete a directory 
-Task 10 - cd - allows me to go back a directory 
-Task 11 - allowed me to list all the files within the current and parent directory in long format
-Task 12 - creates and writes a file within the /tmp folder 
-Task 13 - created a symolic link between bin/ls and __ls__
-Task 14 - Copy all new files that end in .html, the .. refers to the parent directory 
-Task 15 - move all files beginning with an uppercase letter to /tmp/u
-Task 16 - remove all files ending in ~, -f means force deletion
-Task 17 - create three different directories at once; -p creates nested child directories
+-Task 0 - pwd allows me to print the current working directory
+-Task 1 - ls allows me to see a list of the files 
+-Task 2 - cd allows me to change directory 
+-Task 3 - ls -l allows me to see the list of files one at a time
+-Task 4 - ls -la allows me to see the list of files, including hidden files 
+-Task 5 - ls -an allows me to see the list of files in numerical order, including hidden files 
+-Task 6 - mkdir /tmp/my_first_directory allows me to create a directory within the /tmp folder
+-Task 7 - mv /tmp/betty /tmp/my_first_directory allowed me to move a file into a new place 
+-Task 8 - rm allows me to delete a file 
+-Task 9 - rm -r allowed me to delete a directory 
+-Task 10 - cd - allows me to go back a directory 
+-Task 11 - allowed me to list all the files within the current and parent directory in long format
+-Task 12 - creates and writes a file within the /tmp folder 
+-Task 13 - created a symolic link between bin/ls and __ls__
+-Task 14 - Copy all new files that end in .html, the .. refers to the parent directory 
+-Task 15 - move all files beginning with an uppercase letter to /tmp/u
+-Task 16 - remove all files ending in ~, -f means force deletion
+-Task 17 - create three different directories at once; -p creates nested child directories
