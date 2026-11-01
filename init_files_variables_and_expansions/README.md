@@ -1,1 +1,15 @@
-Adding Readme for project 4!!!!
+- Task 0 - creates an alias, alias name="value"
+- Task 1 - prints hello {current user}
+- Task 2 - export adds .actions to PATH as the last directory
+- Task 3 - prints the number of scripts within PATH, grep -v '^$' removes empty lines 
+- Task 4 - lists environment variables
+- Task 5 - set allows you to show off both functions and environment variables 
+- Task 6 - Assigning a name to a value 
+- Task 7 - export allows it to be a global variable
+- Task 8 - shows calculation of a number and a function 
+- Task 9 - shows how to divide / 
+- Task 10 - shows how to do to the power **
+- Task 11 - shows how to convert binary to decimal
+- Task 12 - lists all letter combos except for oo 
+- Task 13 - prints a float number with two decimal places
+- Task 14 - shows how to do decimal to hexadecimal
